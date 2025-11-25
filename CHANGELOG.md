@@ -1,5 +1,12 @@
 # Changelog
 
+# [10.4.0](https://github.com/KarlaVirtual/Front3/compare/v10.3.0...v10.4.0) (2025-11-25)
+
+
+### Features
+
+* (VSFT-0000)-PruebaDeployFront3_ (7375f3742493354c243de49259ba07431d971ea6)
+
 # [10.3.0](https://github.com/KarlaVirtual/Front3/compare/v10.2.0...v10.3.0) (2025-11-24)
 
 
