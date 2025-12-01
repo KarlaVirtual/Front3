@@ -1,2 +1,3 @@
 <?php
-print_r(":C");
+print_r(":c");
+print_r("f");
