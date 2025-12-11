@@ -1,2 +1,2 @@
 <?php
-print_r("F");
+print_r("ahora sí");
